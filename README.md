@@ -15,8 +15,7 @@ In the words of the Professor:
 
 # Synitheia Prototypes
 
-A habit-forming application prototyped on Figma by Team 2 (Name 1, Name 2, Name 3, Name 4, Name 5)
-<br/>
+A habit-forming application prototyped on Figma by Team 2 (Name 1, Name 2, Name 3, Name 4 Name 5)
 
 ## Getting Started
 
@@ -44,8 +43,13 @@ __Text boxes...__
 ![Grey text box](https://i.imgur.com/r8qFPXr.png
  "Text box")
 
+
  
-...are rounded grey boxes. Due to the constraints of Figma, typing interactions were not able to be as fluid. Too "type" into a textbox, simply click on the textbox and the project will navigate as though the information was typed out.
+![Back button](https://imgur.com/fq6d4CF
+ "Back button")
+ 
+ 
+are rounded grey boxes. Due to the constraints of Figma, typing interactions were not able to be as fluid. Therefore, to type into a textbox. Simply click on the textbox and the project will navigate as though the information was typed out
 
 ### Prerequisites
 
