@@ -1,14 +1,14 @@
 # CMPT 376W Assignment 3
-
+<br/>
 ## Criteria
 For this project, assume the reader has prior background knowledge of Computer Science and Prototyping. The goal of the README.md is to instruct Professor and Teaching Assistants (TAs) in using the system. It must include the team number and the full names of each member.
 In the words of the Professor:
 > "The README is just for helping us figure out how to run your project. It doesn't have to be too extensive.
 
 > Since many of you are using different types of software and different versions, just make things easy for us and clearly state what you used. A lot of tools now allow you to generate a web-based link for your prototype so you can just share that, but again, make it clear which is the first screen we should be looking at."
-
+<br/>
 ***
-
+<br/>
 # Synitheia Prototypes
 
 A habit-forming application prototyped on Figma by Team 2 (Name 1, Name 2, Name 3, Name 4 Name 5)
@@ -38,7 +38,7 @@ __Text boxes...__
 
 ![Grey text box](https://imgur.com/E39nhRI
  "Text box")
-[Imgur](https://i.imgur.com/E39nhRI.png)
+
  
 are rounded grey boxes. Due to the constraints of Figma, typing interactions were not able to be as fluid. Therefore, to type into a textbox. Simply click on the textbox and the project will navigate as though the information was typed out
 
