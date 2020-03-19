@@ -44,7 +44,7 @@ __Text boxes...__
  "Text box")
 
  
-are rounded grey boxes. Due to the constraints of Figma, typing interactions were not able to be as fluid. Therefore, to type into a textbox. Simply click on the textbox and the project will navigate as though the information was typed out
+...are rounded grey boxes. Due to the constraints of Figma, typing interactions were not able to be as fluid. Too "type" into a textbox, simply click on the textbox and the project will navigate as though the information was typed out.
 
 ### Prerequisites
 
