@@ -15,7 +15,8 @@ In the words of the Professor:
 
 # Synitheia Prototypes
 
-A habit-forming application prototyped on Figma by Team 2 (Name 1, Name 2, Name 3, Name 4 Name 5)
+A habit-forming application prototyped on Figma by Team 2 (Name 1, Name 2, Name 3, Name 4, Name 5)
+<br/>
 
 ## Getting Started
 
