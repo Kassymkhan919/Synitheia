@@ -2,7 +2,7 @@
 <br/>
 
 ## Criteria
-For this project, assume the reader has prior background knowledge of Computer Science and Prototyping. The goal of the README.md is to instruct Professor and Teaching Assistants (TAs) in using the system. It must include the team number and the full names of each member.
+For this project, assume the reader has prior background knowledge of Computer Science and Prototyping. The goal of the README.md is to instruct the Professor and Teaching Assistants (TAs) on how to start the created prototypes. This file **must** include the team number and the full names of each member.
 In the words of the Professor:
 > "The README is just for helping us figure out how to run your project. It doesn't have to be too extensive.
 >
@@ -27,7 +27,22 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly. As such
 * Development Platform
 
 #### The New Rubric
-[insert new rubric here]
+*Introduction*
+* Team Number
+* Team Names
+* Software Used
+* Clear general instructions as to how to open and operate the prototypes
+
+*Horizontal Prototype*
+* Working link to prototype
+* Clear description of starting screen
+* List of major user tasks implemented (in order)
+
+*Vertical Prototype*
+* Working link to prototype
+* Clear description of starting screen
+* Description of what feature is vertical
+* To what extent is the verticality implemented? 
 
 <br/>
 
@@ -36,7 +51,7 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly. As such
 
 # Synitheia Prototypes
 
-A habit-forming application prototyped on Figma by Team 2 (Name 1, Name 2, Name 3, Name 4 Name 5)
+A habit-forming application prototyped on **Figma** by Team 2 (Name 1, Name 2, Name 3, Name 4 Name 5)
 
 ## Getting Started
 
