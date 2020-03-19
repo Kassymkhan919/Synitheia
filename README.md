@@ -29,7 +29,8 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly. As such
 #### The New Rubric
 *Introduction*
 * Team Number
-* Team Names
+* Team Member's Full Names 
+(These have been replaced with arbitrary "Name #" due to the submission guidelines of Assignment 3: *"...should not include your name or student number in the pdf"*)
 * Software Used
 * Clear general instructions as to how to open and operate the prototypes
 
@@ -51,7 +52,7 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly. As such
 
 # Synitheia Prototypes
 
-A habit-forming application prototyped on **Figma** by Team 2 (Name 1, Name 2, Name 3, Name 4 Name 5)
+A habit-forming application prototyped on **Figma** by Team 2 (Name 1, Name 2, Name 3, Name 4, Name 5)
 
 ## Getting Started
 
