@@ -63,7 +63,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Navigate to the appropriate link (found in the subsection of this document). This will open the project file. No download or installation is necessary. Internet connection is required.
 
 * Click the play button on the top left corner to get started with presentation mode. 
-![Location of play button](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5d9420f12c7d3a7e9ae1e571/file-SiluksfJfC.png "Presentation Mode")
+![Location of play button](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5d9420f12c7d3a7e9ae1e571/file-SiluksfJfC.png "Presentation Mode" =250x250)
 This will activate the project and will start on the proper landing page. More details regarding
 the specifics are below.
 
