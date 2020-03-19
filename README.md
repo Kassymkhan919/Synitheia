@@ -17,8 +17,6 @@ In the words of the Professor:
 
 A habit-forming application prototyped on Figma by Team 2 (Name 1, Name 2, Name 3, Name 4 Name 5)
 
-<br/>
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
@@ -60,6 +58,11 @@ There are several items to keep in mind while navigating through the prototypes.
 <br/>
 
 ## Horizontal Prototype
+
+<br/>
+<br/>
+
+## Vertical Prototype
 
 ## Running the tests
 
