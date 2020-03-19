@@ -40,11 +40,9 @@ There are several items to keep in mind while navigating through the prototypes.
 
 __Text boxes...__
 
-![Grey text box](https://imgur.com/E39nhRI
+![Grey text box](https://i.imgur.com/r8qFPXr.png
  "Text box")
 
-![Grey text box](https://imgur.com/E39nhRI
- "Text box")
  
 are rounded grey boxes. Due to the constraints of Figma, typing interactions were not able to be as fluid. Therefore, to type into a textbox. Simply click on the textbox and the project will navigate as though the information was typed out
 
