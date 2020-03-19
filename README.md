@@ -17,6 +17,8 @@ In the words of the Professor:
 
 A habit-forming application prototyped on Figma by Team 2 (Name 1, Name 2, Name 3, Name 4 Name 5)
 
+<br/>
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
@@ -54,31 +56,10 @@ There are several items to keep in mind while navigating through the prototypes.
  
 ...are used to navigate users back to the proper screen if they wish to cancel their actions. Once again, due to Figma constraints, the back button may not navigate back to the page expected. This is a rare occurance, but one to keep in mind while exploring Synitheia.
 
-### Prerequisites
+<br/>
+<br/>
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+## Horizontal Prototype
 
 ## Running the tests
 
