@@ -45,7 +45,7 @@ __Text boxes...__
 
 
  
-![Back button](https://imgur.com/fq6d4CF
+![Back button](https://i.imgur.com/fq6d4CF.png
  "Back button")
  
  
