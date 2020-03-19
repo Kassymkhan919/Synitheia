@@ -7,6 +7,8 @@ In the words of the Professor:
 
 > Since many of you are using different types of software and different versions, just make things easy for us and clearly state what you used. A lot of tools now allow you to generate a web-based link for your prototype so you can just share that, but again, make it clear which is the first screen we should be looking at."
 
+***
+
 # Synitheia Prototypes
 
 A habit-forming application prototyped on Figma by Team 2 (Name 1, Name 2, Name 3, Name 4 Name 5)
@@ -20,9 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Navigate to the appropriate link (found in the subsection of this document). This will open the project file. No download or installation is necessary. Internet connection is required.
 
 * Click the play button on the top left corner to get started with presentation mode. 
-
 ![Location of play button](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5d9420f12c7d3a7e9ae1e571/file-SiluksfJfC.png "Presentation Mode")
-
 This will activate the project and will start on the proper landing page. More details regarding
 the specifics are below.
 
@@ -37,8 +37,6 @@ There are several items to keep in mind while navigating through the prototypes.
 __Text boxes...__
 
 ![Grey text box](https://imgur.com/E39nhRI
- "Text box")
-![Grey text box](https://i.imgur.com/Cfo1gLl.png
  "Text box")
 
  
