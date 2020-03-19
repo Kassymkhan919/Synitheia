@@ -43,13 +43,15 @@ __Text boxes...__
 ![Grey text box](https://i.imgur.com/r8qFPXr.png
  "Text box")
  
+
+ 
 ...are rounded grey boxes. Due to the constraints of Figma, typing interactions were not able to be as fluid. Therefore, to type into a textbox. Simply click on the textbox and the project will navigate as though the information was typed out.
 
 <br/>
 
 __Back buttons...__
 
-![Back button](https://i.imgur.com/fq6d4CF.png
+![Back button](https://i.imgur.com/RQzW9Hh.png
  "Back button")
  
 ...are used to navigate users back to the proper screen if they wish to cancel their actions. Once again, due to Figma constraints, the back button may not navigate back to the page expected. This is a rare occurance, but one to keep in mind while exploring Synitheia.
