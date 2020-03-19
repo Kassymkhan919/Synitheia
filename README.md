@@ -38,6 +38,8 @@ __Text boxes...__
 
 ![Grey text box](https://imgur.com/E39nhRI
  "Text box")
+![Grey text box](https://i.imgur.com/Cfo1gLl.png
+ "Text box")
 
  
 are rounded grey boxes. Due to the constraints of Figma, typing interactions were not able to be as fluid. Therefore, to type into a textbox. Simply click on the textbox and the project will navigate as though the information was typed out
