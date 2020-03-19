@@ -8,6 +8,27 @@ In the words of the Professor:
 >
 > Since many of you are using different types of software and different versions, just make things easy for us and clearly state what you used. A lot of tools now allow you to generate a web-based link for your prototype so you can just share that, but again, make it clear which is the first screen we should be looking at."
 
+This differs from the rubric given for CMPT 376W's Assignment 3 greatly. As such, the given rubric has been remodeled to illustrate the changes. 
+
+#### The Original
+<u>Introduction</u>
+* Motivation
+* Task Description
+* Objective
+* Describing task as a machine learning problem
+
+<u>Problem Analysis</u>
+* User Requirements
+* User’s Goals
+
+<u>Project Management</u>
+* Software Development
+* Programming Language(s) Used
+* Development Platform
+
+#### The New Rubric
+[insert new rubric here]
+
 <br/>
 
 ***
