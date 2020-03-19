@@ -11,17 +11,17 @@ In the words of the Professor:
 This differs from the rubric given for CMPT 376W's Assignment 3 greatly. As such, the given rubric has been remodeled to illustrate the changes. 
 
 #### The Original
-<u>Introduction</u>
+*Introduction*
 * Motivation
 * Task Description
 * Objective
 * Describing task as a machine learning problem
 
-<u>Problem Analysis</u>
+*Problem Analysis*
 * User Requirements
 * User’s Goals
 
-<u>Project Management</u>
+*Project Management*
 * Software Development
 * Programming Language(s) Used
 * Development Platform
