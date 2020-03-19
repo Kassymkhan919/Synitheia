@@ -4,6 +4,7 @@
 For this project, assume the reader has prior background knowledge of Computer Science and Prototyping. The goal of the README.md is to instruct Professor and Teaching Assistants (TAs) in using the system. It must include the team number and the full names of each member.
 In the words of the Professor:
 > "The README is just for helping us figure out how to run your project. It doesn't have to be too extensive.
+
 > Since many of you are using different types of software and different versions, just make things easy for us and clearly state what you used. A lot of tools now allow you to generate a web-based link for your prototype so you can just share that, but again, make it clear which is the first screen we should be looking at."
 
 # Synitheia Prototypes
@@ -27,14 +28,18 @@ the specifics are below.
 
 Explore the available options on the screen. If stuck, click anywhere on the screen and available options will be highlighted in blue:
 ![Illustration of the blue highlight feature](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5d9425102c7d3a7e9ae1e578/file-BHSKE2W8Wx.gif "Hotspot Hints")
-![Grey text box](https://i.imgur.com/Cfo1gLl.png
- "Text box")
+
 
 ### Navigation Notes
 
 There are several items to keep in mind while navigating through the prototypes.
 
-__Text boxes__ are rounded grey boxes. Due to the constraints of Figma, typing interactions were not able to be as fluid. Therefore, to type into a textbox. Simply click on the textbox and the project will navigate as though the information was typed out
+__Text boxes...__
+
+![Grey text box](https://i.imgur.com/Cfo1gLl.png
+ "Text box")
+ 
+are rounded grey boxes. Due to the constraints of Figma, typing interactions were not able to be as fluid. Therefore, to type into a textbox. Simply click on the textbox and the project will navigate as though the information was typed out
 
 ### Prerequisites
 
