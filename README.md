@@ -1,5 +1,5 @@
 # CMPT 376W Assignment 3
-<br/>
+<br>
 
 ## Criteria
 For this project, assume the reader has prior background knowledge of Computer Science and Prototyping. The goal of the README.md is to instruct the Professor and Teaching Assistants (TAs) on how to start the created prototypes. This file **must** include the team number and the full names of each member.
@@ -45,10 +45,10 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly. As such
 * Description of what feature is vertical
 * To what extent is the verticality implemented? 
 
-<br/>
+<br>
 
 ***
-<br/>
+<br>
 
 # Synitheia Prototypes
 
@@ -62,12 +62,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Navigate to the appropriate link (found in the subsection of this document). This will open the project file. No download or installation is necessary. Internet connection is required.
 
-* Click the play button on the top left corner to get started with presentation mode. <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5d9420f12c7d3a7e9ae1e571/file-SiluksfJfC.png" width="400"> <br>
+* Click the play button on the top left corner to get started with presentation mode. 
+![The location of presentation mode](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5d9420f12c7d3a7e9ae1e571/file-SiluksfJfC.png
+ "Presentation Mode")
 This will activate the project and will start on the proper landing page. More details regarding
 the specifics are below.
 
 * Explore the available options on the screen. If stuck, click anywhere on the screen and available options will be highlighted in blue:
- <br><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5d9425102c7d3a7e9ae1e578/file-BHSKE2W8Wx.gif" width="400">
+ ![Interactions highlighted in blue after click](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5d9425102c7d3a7e9ae1e578/file-BHSKE2W8Wx.gif
+ "Hotspot Highlight")
 
 ### Navigation Notes
 
