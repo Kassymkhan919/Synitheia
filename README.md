@@ -67,7 +67,7 @@ This will activate the project and will start on the proper landing page. More d
 the specifics are below.
 
 * Explore the available options on the screen. If stuck, click anywhere on the screen and available options will be highlighted in blue:
- <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5d9425102c7d3a7e9ae1e578/file-BHSKE2W8Wx.gif" width="400"> <br>
+ <br><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5d9425102c7d3a7e9ae1e578/file-BHSKE2W8Wx.gif" width="400">
 
 ### Navigation Notes
 
