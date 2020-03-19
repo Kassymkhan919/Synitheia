@@ -30,7 +30,7 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly. As such
 *Introduction*
 * Team Number
 * Team Member's Full Names 
-(These have been replaced with arbitrary "Name #" due to the submission guidelines of Assignment 3: *"...should not include your name or student number in the pdf"*)
+(These have been replaced with arbitrary "Name #"s due to the submission guidelines of Assignment 3: *"[submissions] should not include your name or student number in the pdf"*)
 * Software Used
 * Clear general instructions as to how to open and operate the prototypes
 
