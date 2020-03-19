@@ -38,7 +38,7 @@ the specifics are below.
 
 There are several items to keep in mind while navigating through the prototypes.
 
-__Text boxes...__
+* __Text boxes...__
 
 ![Grey text box](https://i.imgur.com/r8qFPXr.png
  "Text box")
@@ -49,7 +49,7 @@ __Text boxes...__
 
 <br/>
 
-__Back buttons...__
+* __Back buttons...__
 
 ![Back button](https://i.imgur.com/RQzW9Hh.png
  "Back button")
