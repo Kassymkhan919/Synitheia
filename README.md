@@ -151,6 +151,7 @@ If the above screen is not what appears, please use the arrows directly below th
 #### How Vertical Is It?
 
 **Creation of habit goal**
+
 When user starts creating a habit:
 * User cannot proceed further before they choose the title of the habit
 * User cannot leave habit description box empty
