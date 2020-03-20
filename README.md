@@ -121,9 +121,9 @@ If the above screen is not what appears, please use the arrows directly below th
 1. User can log in
 2. User can check in on a habit
 3. User can create a new weekly habit goal
-   * User can sets date and time fr reminder to check in (??)
-   * User can scan physical calendar or import digital calendar
-     * App shows when user can do the habit based on free time in calendar
+   * User can set date and time for reminder to check in (??)
+   * User can scan physical calendar or import a digital calendar
+     * App shows when user can do the habit based on free time in Synitheia's calendar
 4. User can examine pre-existing habits 
 5. User can visually see the streak of habits on calendar
 6. User can see and interact with communities and recently viewed posts
@@ -135,60 +135,12 @@ If the above screen is not what appears, please use the arrows directly below th
 
 ## Vertical Prototype
 
+This prototype can be found [here]()
 
+### Starting Screen
+![Vertical starting screen](
+"Starting Screen")
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+If the above screen is not what appears, please use the arrows directly below the prototype to naivgate to screen #1.
 
 
