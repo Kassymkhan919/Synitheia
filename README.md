@@ -118,21 +118,18 @@ If the above screen is not what appears, please use the arrows directly below th
 
 ### Major User Tasks Implemented
 
-1. User logs in
-2. Check in goal habit
-3. Creates new weekly habit goal
-
- * Sets date and time when to remind to check in the habit ??
- * User can scan physical calendar or import digital calendar to find the time to do the habit ??
- * App shows when user can do the habit based on free time in calendar
-4. Examine pre-existing habit 
-6. 
-7. User can check the the streak of the habits (for diet, trumpet) on calendar
-8. User can see and interact with communities and recently viewed posts
-   * user can create a new post and write comments to existing posts
-
-10. User can toggle night mode in settings
-11. user can see completed habits
+1. User can log in
+2. User can check in on a habit
+3. User can create a new weekly habit goal
+   * User can sets date and time fr reminder to check in (??)
+   * User can scan physical calendar or import digital calendar
+     * App shows when user can do the habit based on free time in calendar
+4. User can examine pre-existing habits 
+5. User can visually see the streak of habits on calendar
+6. User can see and interact with communities and recently viewed posts
+   * User can create a new post and write comments to existing posts
+7. User can toggle night mode in Settings
+8. User can see completed habits
 <br/>
 <br/>
 
