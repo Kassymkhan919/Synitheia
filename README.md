@@ -76,7 +76,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Navigate to the appropriate link (found in the subsection of this document). This will open the project file. No download or installation is necessary. Internet connection and a Figma account are required.
 
-* The link will open the prototype's starting page. No furthur steps are required to open the project.
+* The link will open the prototype's starting page. No further steps are required to open the project.
 
 * Explore the available options on the screen. If stuck, click anywhere on the screen and available options will be highlighted in blue:
 
