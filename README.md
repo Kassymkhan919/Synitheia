@@ -167,7 +167,7 @@ If user chooses to integrate their calendar...
 * If user unselects all available time slots found then the button "Done " will be greyed out and an error message will appear with a helpful comment when pressed
 
 If user does not choose to integrate their calendar...
-* A prompt ask they want to get notifications
+* A prompt asks if user wants to get notifications
   * If user presses "yes", they can manually select notification time
   * If user presses "no", redirect to completed addition prompt
 
