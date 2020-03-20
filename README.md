@@ -155,6 +155,8 @@ If the above screen is not what appears, please use the arrows directly below th
 **Checking In**
 * If User checks in and presses "No" on the prompt...
   * If it's the final check in, send a prompt asking if user would like to push back deadline by 2 (two) weeks
+    * If user agrees,  send a confirmation and push deadline back by 2 (two) weeks and modify progress accordingly
+    * If user does not agree, send a confirmation and delete the habit goal
   * If it's a regualar check in, send an encouraging message meant to motivate the user and **do not** increase progress for the habit goal
 
 * If User checks in and presses "yes" on the prompt...
