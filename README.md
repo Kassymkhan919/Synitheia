@@ -96,16 +96,25 @@ There are several items to keep in mind while navigating through the prototypes.
 
 This prototype can be found [here](https://www.figma.com/proto/0OSdUWi3Fc56jVILHRzNYm/Horizontal?node-id=432%3A1391&scaling=scale-down)
 
-### Starting Screen
 
-![Horizontal starting screen](https://i.imgur.com/zKbUA2V.png
-"Starting Screen")
+![Back button](https://i.imgur.com/zKbUA2V.png
+"Back button")
 
-If the above screen is not what appears, please use the arrows directly below the prototype to naivgate to screen #1.
-
-### Major User Tasks Implemented
 1. User logs in
-2. 
+2. Check in goal habit
+3. Creates new weekly habit goal
+
+ * Sets date and time when to remind to check in the habit ??
+ * User can scan physical calendar or import digital calendar to find the time to do the habit ??
+ * App shows when user can do the habit based on free time in calendar
+4. Examine pre-existing habit 
+6. 
+7. User can check the the streak of the habits (for diet, trumpet) on calendar
+8. User can see and interact with communities and recently viewed posts
+   * user can create a new post and write comments to existing posts
+
+10. User can toggle night mode in settings
+11. user can see completed habits
 <br/>
 <br/>
 
