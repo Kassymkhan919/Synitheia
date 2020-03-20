@@ -148,7 +148,7 @@ If the above screen is not what appears, please use the arrows directly below th
 * User creates a new habit goal
 * User checks into a pre-existing habit goal
 
-#### How Vertical Is It?
+### How Vertical Is It?
 
 **Creation of habit goal**
 
