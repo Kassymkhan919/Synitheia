@@ -151,12 +151,14 @@ If the above screen is not what appears, please use the arrows directly below th
 #### How Vertical Is It?
 
 **Creation of habit goal**
-* Does not allow to proceed further before user chooses the title of the habit
-* does not allow to leave habit description box empty
-* allows to choose time and regularity of the habit
-* allows to change the habit icon
-* allows to choose to integrate physical or digital calendar
-* button "Done" is greyed out before the user chooses at least one time slot to do the habit
+When user starts creating a habit:
+* User cannot proceed further before they choose the title of the habit
+* User cannot leave habit description box empty
+* User can choose time and regularity of the habit
+* User can change the habit icon
+* User can choose to integrate physical or digital calendar
+* On the time found time page If button "Done" is greyed out then user needs to choose at least one time slot to do the habit 
+
 * allows user to select and unselect the time on the calendar to do the habit
 
 **Checking In**
