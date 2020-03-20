@@ -150,4 +150,8 @@ If the above screen is not what appears, please use the arrows directly below th
 
 #### How Vertical Is It?
 
+**Creation of habit goal**
+
+**Checking In**
+
 
