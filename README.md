@@ -148,6 +148,9 @@ If the above screen is not what appears, please use the arrows directly below th
 * User creates a new habit goal
 * User checks into a pre-existing habit goal
 
+#### How Vertical Is It?
+
+**Creation of habit goal**
 * Does not allow to proceed further before user chooses the title of the habit
 * does not allow to leave habit description box empty
 * allows to choose time and regularity of the habit
@@ -156,11 +159,13 @@ If the above screen is not what appears, please use the arrows directly below th
 * button "Done" is greyed out before the user chooses at least one time slot to do the habit
 * allows user to select and unselect the time on the calendar to do the habit
 
-
-#### How Vertical Is It?
-
-**Creation of habit goal**
-
 **Checking In**
+* If User checks in and presses "No" on the prompt...
+  * If it's the final check in, send a prompt asking if user would like to push back deadline by 2 (two) weeks
+    * If user agrees,  send a confirmation and push deadline back by 2 (two) weeks and modify progress accordingly
+    * If user does not agree, send a confirmation and delete the habit goal
+  * If it's a regualar check in, send an encouraging message meant to motivate the user and **do not** increase progress for the habit goal
+
+* If User checks in and presses "yes" on the prompt...
 
 
