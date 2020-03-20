@@ -153,18 +153,19 @@ If the above screen is not what appears, please use the arrows directly below th
 **Creation of habit goal**
 
 When user starts creating a habit:
-* If user does not select title of the habit they cannot proceed further
-* If user does not put in information about habit in the description box they cannot get to the next step
-* If user does not choose time and regularity of the habit they do not see the next task
-* If user does not select the habit icon they cannot go to the next step
+* If user does not select title of the habit title box becomes red
+* If user does not put in information about habit in the description box, it becomes red
+* If user does not choose regularity of the habit, the icons will turn red
+if user does not select the day when to do the habit the days of the week will turn red
+* If user does not select the habit icon, the error message says to choose a habit icon
 
 If user does not click "Next" button then error message appears on the screen
 
 On the calendar integration screen: 
 
 If user does not click choose to integrate physical or digital calendar 
-* If user chooses one of the calendars then they can integrate them
- *  On the time found time page if button "Done" is greyed out then user needs to choose at least one time slot to get notifications
+ * If user does not select time to get notifications then the button "Done " will be greyed out
+ * If user unselected all available time slots then the button "Done " will be greyed out
  * allows user to select and unselect the time on the calendar to do the habit
 
 If not, then app will ask again they want to get notifications
