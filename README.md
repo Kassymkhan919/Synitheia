@@ -37,12 +37,12 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly (~95% di
 
 *Horizontal Prototype*
 * Working link to prototype
-* Clear description of starting screen
+* Clear starting screen
 * List of major user tasks implemented (in order)
 
 *Vertical Prototype*
 * Working link to prototype
-* Clear description of starting screen
+* Clear starting screen
 * Description of what feature is vertical
 * To what extent is the verticality implemented? 
 
