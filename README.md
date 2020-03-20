@@ -60,7 +60,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Steps
 
-* Navigate to the appropriate link (found in the subsection of this document). This will open the project file. No download or installation is necessary. Internet connection is required.
+* Navigate to the appropriate link (found in the subsection of this document). This will open the project file. No download or installation is necessary. Internet connection and a Figma account are required.
 
 * Click the play button on the top left corner to get started with presentation mode. 
 ![The location of presentation mode](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5d9420f12c7d3a7e9ae1e571/file-SiluksfJfC.png
