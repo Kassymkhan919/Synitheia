@@ -97,8 +97,12 @@ There are several items to keep in mind while navigating through the prototypes.
 This prototype can be found [here](https://www.figma.com/proto/0OSdUWi3Fc56jVILHRzNYm/Horizontal?node-id=432%3A1391&scaling=scale-down)
 
 ### Starting Screen
-![Back button](https://i.imgur.com/zKbUA2V.png
-"Back button")
+![Horizontal starting screen](https://i.imgur.com/zKbUA2V.png
+"Starting Screen")
+
+If the above screen is not what appears, please use the arrows directly below the prototype to naivgate to screen #1.
+
+### Major User Tasks Implemented
 
 1. User logs in
 2. Check in goal habit
