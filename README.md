@@ -158,7 +158,7 @@ When user starts creating a habit:
 * If user does not choose time and regularity of the habit they do not see the next task
 * If user does not select the habit icon they cannot go to the next step
 
-If user does not click "Next" button then they cannot get to the next page
+If user does not click "Next" button then error message appears on the screen
 
 On the calendar integration screen: 
 
