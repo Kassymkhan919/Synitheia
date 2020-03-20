@@ -157,8 +157,9 @@ When user starts creating a habit:
 * User cannot leave habit description box empty
 * User can choose time and regularity of the habit
 * User can change the habit icon
-* User can choose to integrate physical or digital calendar
-* On the time found time page If button "Done" is greyed out then user needs to choose at least one time slot to do the habit 
+On the next screen: 
+User can choose to integrate physical or digital calendar
+* On the time found time page if button "Done" is greyed out then user needs to choose at least one time slot to do the habit 
 
 * allows user to select and unselect the time on the calendar to do the habit
 
