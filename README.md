@@ -2,7 +2,7 @@
 <br>
 
 ## Criteria
-For this project, assume the reader has prior background knowledge of Computer Science and Prototyping. The goal of the README.md is to instruct the Professor and Teaching Assistants (TAs) on how to start the created prototypes. This file **must** include the team number and the full names of each member.
+For this project, assume the audience has prior background knowledge of Computer Science and Prototyping. The goal of the README.md is to instruct the Professor and Teaching Assistants (TAs) on how to start the created prototypes. This file **must** include the team number and the full names of each member.
 In the words of the Professor:
 > "The README is just for helping us figure out how to run your project. It doesn't have to be too extensive.
 >
@@ -116,7 +116,7 @@ This prototype can be found [here](https://www.figma.com/proto/0OSdUWi3Fc56jVILH
 
 If the above screen is not what appears, please use the arrows directly below the prototype to naivgate to screen #1.
 
-### Major User Tasks Implemented
+### Major User Tasks Implemented In Order
 
 1. User can log in
 2. User can check in on a habit
@@ -152,35 +152,36 @@ If the above screen is not what appears, please use the arrows directly below th
 
 **Creation of habit goal**
 
-When user starts creating a habit:
-* If user does not select title of the habit title box becomes red
-* If user does not put in information about habit in the description box, it becomes red
-* If user does not choose regularity of the habit, the icons will turn red
-if user does not select the day when to do the habit the days of the week will turn red
-* If user does not select the habit icon, the error message says to choose a habit icon
+*When user starts creating a habit:*
 
-If user does not click "Next" button then error message appears on the screen
+* If user does not type a title for the habit and scrolls downwards, the title textbox's outline becomes red with a helpful message below
+* If user does not put in information about habit in the description box, the textbox's outline becomes red with a helpful message below
+* If user does not choose the regularity of the habit, the icons will turn red with a helpful message below
+* If user does not select the day(s) tocomplete the habit, the buttons' outlines will turn red with a helpful message below
+* If user does not select the habit icon and presses they greyed out Next button, an error message appears with a helpful comment
 
-On the calendar integration screen: 
+*On the calendar integration screen:*
 
-If user does not click choose to integrate physical or digital calendar 
- * If user does not select time to get notifications then the button "Done " will be greyed out
- * If user unselected all available time slots then the button "Done " will be greyed out
- * allows user to select and unselect the time on the calendar to do the habit
+If user chooses to integrate their calendar...
+* If user does not select time to get notifications then the button "Done " will be greyed out and an error message will appear with a helpful comment when pressed
+* If user unselects all available time slots found then the button "Done " will be greyed out and an error message will appear with a helpful comment when pressed
 
-If not, then app will ask again they want to get notifications
+If user does not choose to integrate their calendar...
+* A prompt ask they want to get notifications
+  * If user presses "yes", they can manually select notification time
+  * If user presses "no", redirect to completed addition prompt
 
 
 **Checking In**
-* If User checks in and presses "No" on the prompt...
+* If user checks in and presses "No" on the prompt...
   * If it's the final check in, send a prompt asking if user would like to push back deadline by 2 (two) weeks
     * If user agrees,  send a confirmation and push deadline back by 2 (two) weeks and modify progress accordingly
     * If user does not agree, send a confirmation and delete the habit goal
   * If it's a regualar check in, send an encouraging message meant to motivate the user and **do not** increase progress for the habit goal
 
-* If User checks in and presses "yes" on the prompt...
+* If user checks in and presses "Yes" on the prompt...
   * If it's the final check in, send a "Congrats!" message and move the habit goal into Completed section
-  * If it's a regualar check in, send a confirmation message and increase progress for the habit goal appropriately
+  * If it's a regular check in, send a confirmation message and increase progress for the habit goal appropriately
 
 
 
