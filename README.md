@@ -121,7 +121,7 @@ If the above screen is not what appears, please use the arrows directly below th
 1. User can log in
 2. User can check in on a habit
 3. User can create a new weekly habit goal
-   * User can set date and time for reminder to check in (??)
+   * User can set date and time for reminder to check in
    * User can scan physical calendar or import a digital calendar
      * App shows when user can do the habit based on free time in Synitheia's calendar
 4. User can examine pre-existing habits 
