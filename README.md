@@ -143,7 +143,10 @@ This prototype can be found [here](https://www.figma.com/proto/c9NGarXAzAXSp0dCk
 
 If the above screen is not what appears, please use the arrows directly below the prototype to naivgate to screen #1.
 
-### Vertical Feature
+### Vertical Feature(s)
+
+* User creates a new habit goal
+* User checks into a pre-existing habit goal
 
 #### How Vertical Is It?
 
