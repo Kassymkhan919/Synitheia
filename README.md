@@ -95,10 +95,12 @@ There are several items to keep in mind while navigating through the prototypes.
 ## Horizontal Prototype
 
 This prototype can be found [here](https://www.figma.com/proto/0OSdUWi3Fc56jVILHRzNYm/Horizontal?node-id=432%3A1391&scaling=scale-down)
+
+
 ![Horizontal starting screen](https://i.imgur.com/zKbUA2V.png
 "Starting Screen")
 
-If this is not the first screen that appears, please use the arrows directly below the prototype to naivgate to screen #1.
+If the above screen is not what appears, please use the arrows directly below the prototype to naivgate to screen #1.
 
 ### Major User Tasks Implemented
 1. User logs in
