@@ -153,5 +153,7 @@ If the above screen is not what appears, please use the arrows directly below th
 **Creation of habit goal**
 
 **Checking In**
+* If User checks in and presses "No" on the prompt...
+* If User checks in and presses "yes" on the prompt...
 
 
