@@ -157,7 +157,7 @@ If the above screen is not what appears, please use the arrows directly below th
 * If user does not type a title for the habit and scrolls downwards, the title textbox's outline becomes red with a helpful message below
 * If user does not put in information about habit in the description box, the textbox's outline becomes red with a helpful message below
 * If user does not choose the regularity of the habit, the icons will turn red with a helpful message below
-* If user does not select the day(s) tocomplete the habit, the buttons' outlines will turn red with a helpful message below
+* If user does not select the day(s) to complete the habit, the buttons' outlines will turn red with a helpful message below
 * If user does not select the habit icon and presses they greyed out Next button, an error message appears with a helpful comment
 
 *On the calendar integration screen:*
