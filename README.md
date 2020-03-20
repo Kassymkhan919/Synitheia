@@ -8,7 +8,7 @@ In the words of the Professor:
 >
 > Since many of you are using different types of software and different versions, just make things easy for us and clearly state what you used. A lot of tools now allow you to generate a web-based link for your prototype so you can just share that, but again, make it clear which is the first screen we should be looking at."
 
-This differs from the rubric given for CMPT 376W's Assignment 3 greatly. As such, the given rubric has been remodeled to illustrate the changes. 
+This differs from the rubric given for CMPT 376W's Assignment 3 greatly (~95% difference). As such, the given rubric has been remodeled to illustrate the changes. 
 
 #### The Original
 *Introduction*
@@ -44,6 +44,15 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly. As such
 * Clear description of starting screen
 * Description of what feature is vertical
 * To what extent is the verticality implemented? 
+
+#### Differences
+* Replace Problem Analysis and Project Management sections with Horizontal Prototype and Vertical Prototype
+* Introduction is entirely reworked
+
+#### Similarities
+* Introduction section exists
+* Name of software is listed
+
 
 <br>
 
