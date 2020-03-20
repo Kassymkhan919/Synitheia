@@ -138,7 +138,7 @@ If the above screen is not what appears, please use the arrows directly below th
 This prototype can be found [here](https://www.figma.com/proto/c9NGarXAzAXSp0dCksAqlE/Vertical-add-habit?node-id=173%3A408&scaling=scale-down)
 
 ### Starting Screen
-![Vertical starting screen](https://i.imgur.com/62XMDVY.png
+![Vertical starting screen](https://i.imgur.com/JEzoCEe.png
 "Starting Screen")
 
 If the above screen is not what appears, please use the arrows directly below the prototype to naivgate to screen #1.
