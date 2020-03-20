@@ -69,8 +69,9 @@ This will activate the project and will start on the proper landing page. More d
 the specifics are below.
 
 * Explore the available options on the screen. If stuck, click anywhere on the screen and available options will be highlighted in blue:
- ![Interactions highlighted in blue after click](https://i.imgur.com/bF9csBT.png
- "Hotspot Highlight")
+
+![Interactions highlighted in blue after click](https://i.imgur.com/bF9csBT.png
+"Hotspot Highlight")
 
 ### Navigation Notes
 
