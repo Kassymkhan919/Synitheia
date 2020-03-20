@@ -25,6 +25,7 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly (~95% di
 * Software Development
 * Programming Language(s) Used
 * Development Platform
+* Milestones & Schedule
 
 #### The New Rubric
 *Introduction*
@@ -45,7 +46,7 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly (~95% di
 * Description of what feature is vertical
 * To what extent is the verticality implemented? 
 
-<br>
+<br><br>
 
 To summarize, here is a list of the similarities and differences:
 
@@ -55,7 +56,7 @@ To summarize, here is a list of the similarities and differences:
 
 #### Similarities
 * Introduction section exists
-* Name of software is listed
+* Name of software (Development Platform) is listed
 
 
 <br>
