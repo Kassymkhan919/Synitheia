@@ -96,8 +96,12 @@ There are several items to keep in mind while navigating through the prototypes.
 
 This prototype can be found [here](https://www.figma.com/proto/0OSdUWi3Fc56jVILHRzNYm/Horizontal?node-id=432%3A1391&scaling=scale-down)
 
-It should look as follows. If this is not the screen that first appears, please use the arrows found directly below the prototype to navigate to scren 1 (displayed as 1/# of screens).
-"Starting Screen")
+
+![Back button](https://i.imgur.com/zKbUA2V.png
+"Back button")
+
+1. User logs in
+2. 
 <br/>
 <br/>
 
