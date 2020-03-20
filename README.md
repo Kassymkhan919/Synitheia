@@ -43,7 +43,7 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly (~95% di
 *Vertical Prototype*
 * Working link to prototype
 * Clear starting screen
-* Description of what feature is vertical
+* Description of what tasks is vertical
 * To what extent is the verticality implemented? 
 
 <br><br>
@@ -143,7 +143,7 @@ This prototype can be found [here](https://www.figma.com/proto/c9NGarXAzAXSp0dCk
 
 If the above screen is not what appears, please use the arrows directly below the prototype to naivgate to screen #1.
 
-### Vertical Feature(s)
+### Vertical Task(s)
 
 * User creates a new habit goal
 * User checks into a pre-existing habit goal
