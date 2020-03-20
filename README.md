@@ -167,5 +167,8 @@ If the above screen is not what appears, please use the arrows directly below th
   * If it's a regualar check in, send an encouraging message meant to motivate the user and **do not** increase progress for the habit goal
 
 * If User checks in and presses "yes" on the prompt...
+  * If it's the final check in, send a "Congrats!" message and move the habit goal into Completed section
+  * If it's a regualar check in, send a confirmation message and increase progress for the habit goal appropriately
+
 
 
