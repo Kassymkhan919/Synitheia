@@ -157,12 +157,16 @@ When user starts creating a habit:
 * If user does not put in information about habit in the description box they cannot get to the next step
 * If user does not choose time and regularity of the habit they do not see the next task
 * If user does not select the habit icon they cannot go to the next step
+
 If user does not click "Next" button then they cannot get to the next page
+
 On the calendar integration screen: 
+
 If user does not click choose to integrate physical or digital calendar 
 * If user chooses one of the calendars then they can integrate them
  *  On the time found time page if button "Done" is greyed out then user needs to choose at least one time slot to get notifications
  * allows user to select and unselect the time on the calendar to do the habit
+
 If not, then app will ask again they want to get notifications
 
 
