@@ -45,6 +45,8 @@ This differs from the rubric given for CMPT 376W's Assignment 3 greatly (~95% di
 * Description of what feature is vertical
 * To what extent is the verticality implemented? 
 
+To summarize, here is a list of the similarities and differences:
+
 #### Differences
 * Replace Problem Analysis and Project Management sections with Horizontal Prototype and Vertical Prototype
 * Introduction is entirely reworked
