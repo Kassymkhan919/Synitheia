@@ -98,7 +98,7 @@ There are several items to keep in mind while navigating through the prototypes.
 
 ## Horizontal Prototype
 
-This prototype can be found [here](https://www.figma.com/file/0OSdUWi3Fc56jVILHRzNYm/Horizontal)
+This prototype can be found [here](https://www.figma.com/proto/0OSdUWi3Fc56jVILHRzNYm/Horizontal?node-id=432%3A1391&scaling=scale-down)
 
 <br/>
 <br/>
