@@ -155,5 +155,7 @@ If the above screen is not what appears, please use the arrows directly below th
 **Checking In**
 * If User checks in and presses "No" on the prompt...
 * If User checks in and presses "yes" on the prompt...
+  * If it's the final check in, send a "Congrats!" message and move the habit goal into Completed section
+  * If it's a regualar check in, send a confirmation message
 
 
