@@ -163,8 +163,8 @@ If the above screen is not what appears, please use the arrows directly below th
 *On the calendar integration screen:*
 
 If user chooses to integrate their calendar...
-* If user does not select time to get notifications then the button "Done " will be greyed out and an error message will appear with a helpful comment when pressed
-* If user unselects all available time slots found then the button "Done " will be greyed out and an error message will appear with a helpful comment when pressed
+* If user does not select time to get notifications then the button "Done" will be greyed out and an error message will appear with a helpful comment when pressed
+* If user unselects all available time slots found then the button "Done" will be greyed out and an error message will appear with a helpful comment when pressed
 
 If user does not choose to integrate their calendar...
 * A prompt asks if user wants to get notifications
