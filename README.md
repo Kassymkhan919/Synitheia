@@ -81,7 +81,7 @@ If the above is not what opens after clicking the link, use the arrows found dir
      * Select any times between 11am-1pm on Sunday
      * Select any times between 12am-1:30pm on Tuesday
      * Proceed 
-  * Select ‘no thanks’ when prompted to set up reminders
+   * Select ‘no thanks’ when prompted to set up reminders
    
 <br>
 
@@ -118,13 +118,13 @@ If the above is not what opens after clicking the link, use the arrows found dir
 <br>
 
 7. Settings
-  * Select settings icon 
-  * Drag toggle button to preview night mode and drag back to return to light mode
+   * Select settings icon 
+   * Drag toggle button to preview night mode and drag back to return to light mode
    
 <br>
 
 8. Completed habits
-  * View completed habits by tapping on trophy icon
+   * View completed habits by tapping on trophy icon
 
 <br/>
 <br/>
