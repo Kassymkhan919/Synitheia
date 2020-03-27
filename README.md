@@ -155,7 +155,7 @@ WIP
 **Checking In**
 * If user checks in and presses "No" on the prompt...
   * If it's the final check in, send a prompt letting users push back the deadline by 2 (two) weeks or more
-  * If it's a regualar check in, send an encouraging message meant to motivate the user and **do not** increase progress for the habit goal
+  * If it's a regular check in, send an encouraging message meant to motivate the user and **do not** increase progress for the habit goal
 
 * If user checks in and presses "Yes" on the prompt...
   * If it's the final check in, send a "Congrats!" message and move the habit goal into Completed section
@@ -167,7 +167,7 @@ WIP
 
 * Error messages appear when user tries to proceed by scrolling down without completing the current stage 
 * Message prevents user from selecting a habit-forming period of less than 2 weeks
-* There are 3 branches depending on what type of chekc-in period is chosen: Daily, Weekly or Custom
+* There are 3 branches depending on what type of check-in period is chosen: Daily, Weekly or Custom
 * Unclickable buttons/options are lighter or “greyed out”
 
 *On the calendar integration screen:*
