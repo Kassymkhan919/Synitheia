@@ -141,7 +141,7 @@ Figure 5: Vertical Start Screen
 
 If the above is not what opens after clicking the link, use the arrows found directly below the prototype to navigate to this screen.
 
-### Vertical Task(s)
+### Vertical Tasks
 
 * User creates a new habit goal
 * User checks into a pre-existing habit goal
