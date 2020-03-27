@@ -143,14 +143,25 @@ If the above is not what opens after clicking the link, use the arrows found dir
 
 ### Vertical Tasks
 
-* User creates a new habit goal
 * User checks into a pre-existing habit goal
+* User creates a new habit goal
 
 ### Sequence of Tasks Executed by User
 
 ### How Vertical Is the Prototype?
 
 WIP
+
+**Checking In**
+* If user checks in and presses "No" on the prompt...
+  * If it's the final check in, send a prompt asking if user would like to push back deadline by 2 (two) weeks
+    * If user agrees,  send a confirmation and push deadline back by 2 (two) weeks and modify progress accordingly
+    * If user does not agree, send a confirmation and delete the habit goal
+  * If it's a regualar check in, send an encouraging message meant to motivate the user and **do not** increase progress for the habit goal
+
+* If user checks in and presses "Yes" on the prompt...
+  * If it's the final check in, send a "Congrats!" message and move the habit goal into Completed section
+  * If it's a regular check in, send a confirmation message and increase progress for the habit goal appropriately
 
 **Creation of habit goal**
 
@@ -172,18 +183,6 @@ If user does not choose to integrate their calendar...
 * A prompt asks if user wants to get notifications
   * If user presses "yes", they can manually select notification time
   * If user presses "no", redirect to completed addition prompt
-
-
-**Checking In**
-* If user checks in and presses "No" on the prompt...
-  * If it's the final check in, send a prompt asking if user would like to push back deadline by 2 (two) weeks
-    * If user agrees,  send a confirmation and push deadline back by 2 (two) weeks and modify progress accordingly
-    * If user does not agree, send a confirmation and delete the habit goal
-  * If it's a regualar check in, send an encouraging message meant to motivate the user and **do not** increase progress for the habit goal
-
-* If user checks in and presses "Yes" on the prompt...
-  * If it's the final check in, send a "Congrats!" message and move the habit goal into Completed section
-  * If it's a regular check in, send a confirmation message and increase progress for the habit goal appropriately
 
 
 
