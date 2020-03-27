@@ -165,22 +165,21 @@ WIP
 
 *When user starts creating a habit:*
 
-* If user does not type a title for the habit and scrolls downwards, the title textbox's outline becomes red with a helpful message below
-* If user does not put in information about habit in the description box, the textbox's outline becomes red with a helpful message below
-* If user does not choose the regularity of the habit, the icons will turn red with a helpful message below
-* If user does not select the day(s) to complete the habit, the buttons' outlines will turn red with a helpful message below
-* If user does not select the habit icon and presses they greyed out Next button, an error message appears with a helpful comment
+* Error messages appear when user tries to proceed by scrolling down without completing the current stage 
+* Message prevents user from selecting a habit-forming period of less than 2 weeks
+* There are 3 branches depending on what type of chekc-in period is chosen: Daily, Weekly or Custom
+* Unclickable buttons/options are lighter or “greyed out”
 
 *On the calendar integration screen:*
 
 If user chooses to integrate their calendar...
-* If user does not select time to get notifications then the button "Done" will be greyed out and an error message will appear with a helpful comment when pressed
-* If user unselects all available time slots found then the button "Done" will be greyed out and an error message will appear with a helpful comment when pressed
+* Users can select/deselect times in the found time screen
+* Error message appears when user attempts to click on unhighlighted regions in the found time screen
+* There are 2 branches depending on what type of calendar is integrated, physical or digital
 
 If user does not choose to integrate their calendar...
-* A prompt asks if user wants to get notifications
-  * If user presses "Yes", they can manually select notification time
-  * If user presses "No", redirect to completed addition prompt
+* There are 2 branches depening on whether users would like to set reminders to do the habit or not
 
+*Empty Screens*
 
-
+* There are two types depending on whether it is the user's first time viewing the home screen or not
