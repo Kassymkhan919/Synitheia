@@ -155,11 +155,12 @@ WIP
 **Checking In**
 * If user checks in and presses "No" on the prompt...
   * If it's the final check in, send a prompt letting users push back the deadline by 2 (two) weeks or more
-  * If it's a regular check in, send an encouraging message meant to motivate the user and **do not** increase progress for the habit goal
-
+  * If it's a regular check in, send an encouraging message meant to motivate the user and break the current streak
 * If user checks in and presses "Yes" on the prompt...
   * If it's the final check in, send a "Congrats!" message and move the habit goal into Completed section
   * If it's a regular check in, send a confirmation message and increase progress for the habit goal appropriately
+
+<br>
 
 **Creation of habit goal**
 
@@ -170,6 +171,8 @@ WIP
 * There are 3 branches depending on what type of check-in period is chosen: Daily, Weekly or Custom
 * Unclickable buttons/options are lighter or “greyed out”
 
+<br>
+
 *On the calendar integration screen:*
 
 If user chooses to integrate their calendar...
@@ -179,6 +182,8 @@ If user chooses to integrate their calendar...
 
 If user does not choose to integrate their calendar...
 * There are 2 branches depending on whether users would like to set reminders to do the habit or not
+
+<br>
 
 *Empty Screens*
 
