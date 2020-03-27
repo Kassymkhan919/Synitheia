@@ -156,9 +156,10 @@ WIP
 * If user checks in and presses "No" on the prompt...
   * If it's the final check in, send a prompt letting users push back the deadline by 2 (two) weeks or more
   * If it's a regular check in, send an encouraging message meant to motivate the user and break the current streak
+  
 * If user checks in and presses "Yes" on the prompt...
   * If it's the final check in, send a "Congrats!" message and move the habit goal into Completed section
-  * If it's a regular check in, send a confirmation message and increase progress for the habit goal appropriately
+  * If it's a regular check in, send a confirmation message and either increase the streak or start a new streak for that habit goal
 
 <br>
 
