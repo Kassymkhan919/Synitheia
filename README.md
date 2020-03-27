@@ -61,10 +61,14 @@ If the above is not what opens after clicking the link, use the arrows found dir
 1. Login
    * Enter login and password by clicking on the corresponding fields
    * Press the Login button
-   <br>
+   
+<br>
+
 2. Check-In Tennis Practice
    * Press yes to check-in
-     <br>
+   
+<br>
+
 3. Add Habit 
    * *I want to...*: Click on text field and select read everyday
    * *I plan to...*: Click on text box to fill in
@@ -78,12 +82,17 @@ If the above is not what opens after clicking the link, use the arrows found dir
      * Select any times between 12am-1:30pm on Tuesday
      * Proceed 
   * Select ‘no thanks’ when prompted to set up reminders
-    <br>
+   
+<br>
+
 4. Click on sleep early and use arrows to swipe through cards
    * Swipe to Diet
      * Click on notification bell to view notification settings for the habit 
      * User should be able to edit their notifications here however such interactivity has not been implemented in this prototype
      * Click the Back button to go to home page
+   
+<br>
+
 5. Community 
    * Search 
      * Click on the search bar to fill in and search for ‘Advice on weight loss’ 
@@ -98,16 +107,22 @@ If the above is not what opens after clicking the link, use the arrows found dir
      * Click on text box to write comment and press return on keyboard
      * Submit
      * Go back
-       <br>
+   
+<br>
+
 6. Calendar 
    * Select the calendar icon in the bottom navigation bar
    * Select between Carrot, Book and Trumpet icons to view streaks
    * Navigate back to Home screen
-     <br>
+   
+<br>
+
 7. Settings
   * Select settings icon 
   * Drag toggle button to preview night mode and drag back to return to light mode
-    <br>
+   
+<br>
+
 8. Completed habits
   * View completed habits by tapping on trophy icon
 
