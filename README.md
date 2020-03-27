@@ -1,135 +1,110 @@
-# CMPT 376W Assignment 3
-<br>
-
-## Criteria
-For this project, assume the audience has prior background knowledge of Computer Science and Prototyping. The goal of the README.md is to instruct the Professor and Teaching Assistants (TAs) on how to start the created prototypes. This file **must** include the team number and the full names of each member.
-In the words of the Professor:
-> "The README is just for helping us figure out how to run your project. It doesn't have to be too extensive.
->
-> Since many of you are using different types of software and different versions, just make things easy for us and clearly state what you used. A lot of tools now allow you to generate a web-based link for your prototype so you can just share that, but again, make it clear which is the first screen we should be looking at."
-
-This differs from the rubric given for CMPT 376W's Assignment 3 greatly (~95% difference). As such, the given rubric has been remodeled to illustrate the changes. 
-
-#### The Original
-*Introduction*
-* Motivation
-* Task Description
-* Objective
-* Describing task as a machine learning problem
-
-*Problem Analysis*
-* User Requirements
-* User’s Goals
-
-*Project Management*
-* Software Development
-* Programming Language(s) Used
-* Development Platform
-* Milestones & Schedule
-
-#### The New Rubric
-*Introduction*
-* Team Number
-* Team Member's Full Names 
-(These have been replaced with arbitrary "Name #"s due to the submission guidelines of Assignment 3: *"[submissions] should not include your name or student number in the pdf"*)
-* Software Used
-* Clear general instructions as to how to open and operate the prototypes
-
-*Horizontal Prototype*
-* Working link to prototype
-* Clear starting screen
-* List of major user tasks implemented (in order)
-
-*Vertical Prototype*
-* Working link to prototype
-* Clear starting screen
-* Description of what tasks is vertical
-* To what extent is the verticality implemented? 
-
-<br><br>
-
-To summarize, here is a list of the similarities and differences:
-
-#### Differences
-* Replace Problem Analysis and Project Management sections with Horizontal Prototype and Vertical Prototype
-* Introduction is entirely reworked
-
-#### Similarities
-* Introduction section exists
-* Name of software (Development Platform) is listed
-
-
-<br>
-
-***
-<br>
-
 # Synitheia Prototypes
 
-A habit-forming application prototyped on **Figma** by Team 2 (Name 1, Name 2, Name 3, Name 4, Name 5)
+A habit-forming application prototyped on **Figma** by Team 2 (Nicole Vavrukh, Erica Ho, Grace Luo, Kassymkhan Bekbolatov, Harry Cui)
+
+The target file for this Readme.md can be found [here](https://github.com/Kassymkhan919/Synitheia/blob/master/README.md)
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine.
+The below steps will get a copy of the project running on the browser.
 
 ### Steps
 
-* Navigate to the appropriate link (found in the subsection of this document). This will open the project file. No download or installation is necessary. Internet connection and a Figma account are required.
+* Navigate to the prototype’s link (found in the subsection of this document) to open the project file. No download or installation of the project is necessary. Internet connection and a Figma account are required
 
-* The link will open the prototype's starting page. No further steps are required to open the project.
+* The link will open the prototype’s start page. 
 
-* Explore the available options on the screen. If stuck, click anywhere on the screen and available options will be highlighted in blue:
+* Explore the available options on the screen. Pressing any part of the screen highlights available options in blue:
 
 ![Interactions highlighted in blue after click](https://i.imgur.com/bF9csBT.png
 "Hotspot Highlight")
+<br>
+Figure 1: Hotspot Highlighting in Figma
 
 ### Navigation Notes
 
-There are several items to keep in mind while navigating through the prototypes.
+Several items to consider while navigating through the prototypes:
 
-* __Text boxes...__
+* __Text boxes__ are rounded grey boxes. Typing interactions were not available on Figma. To “type” into a text box, click on the text box and the interaction will be simulated with the correct information.
 
 ![Grey text box](https://i.imgur.com/r8qFPXr.png
  "Text box")
- 
-...are rounded grey boxes. Due to the constraints of Figma, typing interactions were not able to be as fluid. Therefore, to type into a textbox simply click on the textbox and the project will navigate as though the information was typed out.
+ <br>
+ Figure 2: A text box
 
 <br/>
 
-* __Back buttons...__
+* __Back buttons__ bring users to the prior screen if cancelling an action. Due to Figma’s constraints on the interaction feature, the back button may not show the expected page. The issue is a rare occurrence to be aware of.
 
 ![Back button](https://i.imgur.com/RQzW9Hh.png
  "Back button")
- 
-...are used to navigate users back to the proper screen if they wish to cancel their actions. Once again, due to Figma constraints, the back button may not navigate back to the page expected. This is a rare occurance, but one to keep in mind while exploring Synitheia.
+ <br>
+ Figure 3: A back button
 
 <br/>
 <br/>
 
 ## Horizontal Prototype
 
-This prototype can be found [here](https://www.figma.com/proto/0OSdUWi3Fc56jVILHRzNYm/Horizontal?node-id=432%3A1391&scaling=scale-down)
+This prototype can be found [here](https://www.figma.com/proto/0OSdUWi3Fc56jVILHRzNYm/Horizontal?node-id=432%3A1391&scaling=scale-down) (shorturl.at/pHT34)
 
-### Starting Screen
+### Start Screen
 ![Horizontal starting screen](https://i.imgur.com/zKbUA2V.png
 "Starting Screen")
+<br>
+Figure 4: Horizontal Start Screen
 
-If the above screen is not what appears, please use the arrows directly below the prototype to naivgate to screen #1.
+If the above is not what opens after clicking the link, use the arrows found directly below the prototype to navigate to this screen.
 
 ### Major User Tasks Implemented In Order
 
-1. User can log in
-2. User can check in on a habit
-3. User can create a new weekly habit goal
-   * User can set date and time for reminder to check in
-   * User can scan physical calendar or import a digital calendar
-     * App shows when user can do the habit based on free time in Synitheia's calendar
-4. User can examine pre-existing habits 
-5. User can visually see the streak of habits on calendar
-6. User can see and interact with communities and recently viewed posts
-   * User can create a new post and write comments to existing posts
-7. User can toggle night mode in Settings
-8. User can see completed habits
+1. Login
+   * Enter login and password by clicking on the corresponding fields
+   * Press the Login button
+2. Check-In Tennis Practice
+   * Press yes to check-in
+3. Add Habit 
+   * *I want to...*: Click on text field and select read everyday
+   * *I plan to...*: Click on text box to fill in
+   * Click on ‘Select’ drop-down
+   * Click on weekly option for check-in 
+     * Select Monday
+   * Choose the book icon and click next
+   * Select ‘Scan in calendar’ and take photo
+   * Found Time screen
+     * Select any times between 11am-1pm on Sunday
+     * Select any times between 12am-1:30pm on Tuesday
+     * Proceed 
+  * Select ‘no thanks’ when prompted to set up reminders
+4. Click on sleep early and use arrows to swipe through cards
+   * Swipe to Diet
+     * Click on notification bell to view notification settings for the habit 
+     * User should be able to edit their notifications here however such interactivity has not been implemented in this prototype
+     * Click the Back button to go to home page
+5. Community 
+   * Search 
+     * Click on the search bar to fill in and search for ‘Advice on weight loss’ 
+     * Go back
+   * Communities
+     * Click on the ‘Sports and Exercise category’
+     * Click on the search bar to fill in and search for ‘Advice on weight loss’ 
+     * Go back
+     * Select the second post: ‘Advice on Weight loss activities??’
+   * Advice on weight loss post
+     * Add a comment under the post by clicking on the plus button in bottom right corner
+     * Click on text box to write comment and press return on keyboard
+     * Submit
+     * Go back
+6. Calendar 
+   * Select the calendar icon in the bottom navigation bar
+   * Select between Carrot, Book and Trumpet icons to view streaks
+   * Navigate back to Home screen
+8. Settings
+  * Select settings icon 
+  * Drag toggle button to preview night mode and drag back to return to light mode
+8. Completed habits
+  * View completed habits by tapping on trophy icon
+
 <br/>
 <br/>
 
