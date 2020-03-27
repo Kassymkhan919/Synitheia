@@ -178,7 +178,7 @@ If user chooses to integrate their calendar...
 * There are 2 branches depending on what type of calendar is integrated, physical or digital
 
 If user does not choose to integrate their calendar...
-* There are 2 branches depening on whether users would like to set reminders to do the habit or not
+* There are 2 branches depending on whether users would like to set reminders to do the habit or not
 
 *Empty Screens*
 
