@@ -154,9 +154,7 @@ WIP
 
 **Checking In**
 * If user checks in and presses "No" on the prompt...
-  * If it's the final check in, send a prompt asking if user would like to push back deadline by 2 (two) weeks
-    * If user agrees,  send a confirmation and push deadline back by 2 (two) weeks and modify progress accordingly
-    * If user does not agree, send a confirmation and delete the habit goal
+  * If it's the final check in, send a prompt letting users push back the deadline by 2 (two) weeks or more
   * If it's a regualar check in, send an encouraging message meant to motivate the user and **do not** increase progress for the habit goal
 
 * If user checks in and presses "Yes" on the prompt...
@@ -181,8 +179,8 @@ If user chooses to integrate their calendar...
 
 If user does not choose to integrate their calendar...
 * A prompt asks if user wants to get notifications
-  * If user presses "yes", they can manually select notification time
-  * If user presses "no", redirect to completed addition prompt
+  * If user presses "Yes", they can manually select notification time
+  * If user presses "No", redirect to completed addition prompt
 
 
 
