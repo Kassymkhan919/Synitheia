@@ -148,9 +148,86 @@ If the above is not what opens after clicking the link, use the arrows found dir
 
 ### Sequence of Tasks Executed by User
 
-### How Vertical Is the Prototype?
+1. Home screen
+   * Check in (follow order listed)
+     * Sleep Early Final Check-In
+       * NO, I need more time
+         * Choose to extend deadline by 2 weeks or 3 weeks
+     * Tennis Check-In
+       * Yes
+     * Trumpet Final Check-In
+       * Yes
+       * Go back
+     * Diet Check-In
+       * No
+ 
+ <br>
+ 
+2. Add habit
+   * Click on the + button
+   * Name the habit “Read more”
+   * Enter a description
+   * Select Habit-Forming period
+     * Tap the # of months once to display 0 months and 0 weeks
+       * Click on the confirm button (It is possible to **attempt** to form the habit in less than 2 weeks, but a message will appear when confirming)
+       * Close the message
+   * Tap the # of months again and the # of weeks to choose 3 months and 2 weeks
+     * Confirm
+  * Check-In Frequency
+    * You can try any of the 3 options:
+      * Daily
+      * Weekly (every Saturday)
+      * Custom (every 8 days)
+  * Choose Habit Icon
+    * Before selecting an icon, try dragging upwards (scrolling down) to continue (an error message should appear)
+    * Select the apple icon first (this is optional)
+    * Now find the Book icon and select it 
+  * Next 
+    * Click the Next button to proceed to the next page
+ 
+ <br>
+ 
+4. Calendar Integration
+3 options (Note that you will only be able to use one of these options to finish creating the habit. If you want to try a different option, you will need to restart the prototype and navigate to these screen again.):
+Select Calendar app 
+Select any calendar app of your choice
+Try selecting non-highlighted parts
+Select/deselect any times between 10-11:30pm for habit
+Go back if you want to try another option
+Select the highlighted areas to plan your activities
+Click next
 
-WIP
+Scan in a calendar 
+Click on the camera button to take a picture of the calendar
+Select/deselect any times between 10-11:30pm 
+Try selecting non-highlighted parts
+Go back if you want to try another option
+Otherwise, click next
+Select either yes or no when prompted to set up reminders
+
+
+No thanks
+Setting reminders: select either option 
+If you select yes:
+Click on the text box to fill in reminder message
+Set reminders for Saturday and Monday 
+Click on the time and set it to 10:40 PM and confirm
+Click Done button
+If you select no thanks:
+You will have successfully created the habit goal
+Log out and log back in as a “first-time user” (To view empty states)
+Click on the setting icon to go to the user profile page
+Log out
+Click on the username and password fields to log in as Jane Doe
+Empty states
+The screen that appears is what a first-time user would see upon logging in
+Click the + button
+Click back
+The screen that appears is the empty home screen for a regular user
+
+
+
+### How Vertical Is the Prototype?
 
 **Checking In**
 * If user checks in and presses "No" on the prompt...
