@@ -171,8 +171,8 @@ If the above is not what opens after clicking the link, use the arrows found dir
      * Tap the # of months once to display 0 months and 0 weeks
        * Click on the confirm button (It is possible to **attempt** to form the habit in less than 2 weeks, but a message will appear when confirming)
        * Close the message
-   * Tap the # of months again and the # of weeks to choose 3 months and 2 weeks
-     * Confirm
+     * Tap the # of months again and the # of weeks to choose 3 months and 2 weeks
+       * Confirm
    * Check-In Frequency
      * You can try any of the 3 options:
        * Daily
