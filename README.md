@@ -173,17 +173,17 @@ If the above is not what opens after clicking the link, use the arrows found dir
        * Close the message
    * Tap the # of months again and the # of weeks to choose 3 months and 2 weeks
      * Confirm
-  * Check-In Frequency
-    * You can try any of the 3 options:
-      * Daily
-      * Weekly (every Saturday)
-      * Custom (every 8 days)
-  * Choose Habit Icon
-    * Before selecting an icon, try dragging upwards (scrolling down) to continue (an error message should appear)
-    * Select the apple icon first (this is optional)
-    * Now find the Book icon and select it 
-  * Next 
-    * Click the Next button to proceed to the next page
+   * Check-In Frequency
+     * You can try any of the 3 options:
+       * Daily
+       * Weekly (every Saturday)
+       * Custom (every 8 days)
+   * Choose Habit Icon
+     * Before selecting an icon, try dragging upwards (scrolling down) to continue (an error message should appear)
+     * Select the apple icon first (this is optional)
+     * Now find the Book icon and select it 
+   * Next 
+     * Click the Next button to proceed to the next page
  
  <br>
  
