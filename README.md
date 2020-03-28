@@ -188,34 +188,34 @@ If the above is not what opens after clicking the link, use the arrows found dir
  <br>
  
 4. Calendar Integration
-3 options (Note that you will only be able to use one of these options to finish creating the habit. If you want to try a different option, you will need to restart the prototype and navigate to these screen again.):
-Select Calendar app 
-Select any calendar app of your choice
-Try selecting non-highlighted parts
-Select/deselect any times between 10-11:30pm for habit
-Go back if you want to try another option
-Select the highlighted areas to plan your activities
-Click next
-
-Scan in a calendar 
-Click on the camera button to take a picture of the calendar
-Select/deselect any times between 10-11:30pm 
-Try selecting non-highlighted parts
-Go back if you want to try another option
-Otherwise, click next
-Select either yes or no when prompted to set up reminders
-
-
-No thanks
-Setting reminders: select either option 
-If you select yes:
-Click on the text box to fill in reminder message
-Set reminders for Saturday and Monday 
-Click on the time and set it to 10:40 PM and confirm
-Click Done button
-If you select no thanks:
-You will have successfully created the habit goal
-Log out and log back in as a “first-time user” (To view empty states)
+   * 3 options *(Note that you will only be able to use one of these options to finish creating the habit. If you want to try a different option, you will need to restart the prototype and navigate to these screen again.)* :
+    * Select Calendar app 
+      * Select any calendar app of your choice
+      * Try selecting non-highlighted parts
+      * Select/deselect any times between 10-11:30pm for habit
+      * Go back if you want to try another option
+      * Select the highlighted areas to plan your activities
+      * Click next
+    * Scan in a calendar 
+      * Click on the camera button to take a picture of the calendar
+      * Select/deselect any times between 10-11:30pm 
+      * Try selecting non-highlighted parts
+      * Go back if you want to try another option
+      * Otherwise, click next
+      * Select either yes or no when prompted to set up reminders
+    * No thanks
+      * Setting reminders: select either option 
+        * If you select yes:
+          * Click on the text box to fill in reminder message
+            * Set reminders for Saturday and Monday 
+            * Click on the time and set it to 10:40 PM and confirm
+          * Click Done button
+        * If you select no thanks:
+          * You will have successfully created the habit goal
+          
+ <br>
+ 
+5. Log out and log back in as a “first-time user” (To view empty states)
 Click on the setting icon to go to the user profile page
 Log out
 Click on the username and password fields to log in as Jane Doe
