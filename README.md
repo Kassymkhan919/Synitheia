@@ -216,14 +216,17 @@ If the above is not what opens after clicking the link, use the arrows found dir
  <br>
  
 5. Log out and log back in as a “first-time user” (To view empty states)
-Click on the setting icon to go to the user profile page
-Log out
-Click on the username and password fields to log in as Jane Doe
-Empty states
-The screen that appears is what a first-time user would see upon logging in
-Click the + button
-Click back
-The screen that appears is the empty home screen for a regular user
+   * Click on the setting icon to go to the user profile page
+   * Log out
+   * Click on the username and password fields to log in as Jane Doe
+
+<br>
+
+6. Empty states
+   * The screen that appears is what a first-time user would see upon logging in
+   * Click the + button
+   * Click back
+   * The screen that appears is the empty home screen for a regular user
 
 
 
