@@ -265,6 +265,8 @@ If user does not choose to integrate their calendar...
 * There are 2 branches depending on whether users would like to set reminders to do the habit or not
 
 <br>
+ 
+**Miscellaneous**
 
 *Empty Screens*
 
