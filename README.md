@@ -2,7 +2,7 @@
 
 A habit-forming application prototyped on **Figma** by Team 2 (Nicole Vavrukh, Erica Ho, Grace Luo, Kassymkhan Bekbolatov, Harry Cui)
 
-The target file for this Readme.md can be found [here](https://github.com/Kassymkhan919/Synitheia/blob/master/README.md)
+The target/formatted file for this README.md can be found [here](https://github.com/Kassymkhan919/Synitheia/blob/master/README.md)
 
 ## Getting Started
 
